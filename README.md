@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Prefix Sum
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
