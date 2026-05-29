@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2295-replace-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [2295-replace-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Sorting
 |  |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+## Simulation
+|  |
+| ------- |
+| [2295-replace-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 <!---LeetCode Topics End-->
