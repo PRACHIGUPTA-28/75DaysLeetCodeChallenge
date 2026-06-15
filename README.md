@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2239-find-closest-number-to-zero) |
 | [2295-replace-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [2295-replace-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Topological Sort
 |  |
 | ------- |
