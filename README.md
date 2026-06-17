@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2239-find-closest-number-to-zero](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2239-find-closest-number-to-zero) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2295-replace-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## String
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -446,4 +449,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Number Theory
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
