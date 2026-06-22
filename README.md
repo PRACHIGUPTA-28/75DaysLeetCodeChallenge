@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2295-replace-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Sorting
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1881-maximum-value-after-insertion](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1881-maximum-value-after-insertion) |
 ## Prefix Sum
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [1189-maximum-number-of-balloons](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Quickselect
 |  |
 | ------- |
