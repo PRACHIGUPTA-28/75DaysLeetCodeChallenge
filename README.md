@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## String
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
