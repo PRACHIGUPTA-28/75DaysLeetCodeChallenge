@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0976-largest-perimeter-triangle](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0976-largest-perimeter-triangle](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0976-largest-perimeter-triangle](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1881-maximum-value-after-insertion](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1881-maximum-value-after-insertion) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0976-largest-perimeter-triangle](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -496,4 +500,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
