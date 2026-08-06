@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -491,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
