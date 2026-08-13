@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3833-count-dominant-indices](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3833-count-dominant-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3833-count-dominant-indices](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3833-count-dominant-indices) |
 ## Quicksort
 |  |
 | ------- |
