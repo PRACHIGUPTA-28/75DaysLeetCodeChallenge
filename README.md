@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3833-count-dominant-indices](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3833-count-dominant-indices) |
 ## Hash Table
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Union-Find
 |  |
 | ------- |
