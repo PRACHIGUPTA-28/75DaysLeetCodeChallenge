@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2239-find-closest-number-to-zero) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1881-maximum-value-after-insertion](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1881-maximum-value-after-insertion) |
 | [1903-largest-odd-number-in-string](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
