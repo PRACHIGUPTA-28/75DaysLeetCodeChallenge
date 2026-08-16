@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2085-count-common-words-with-one-occurrence) |
