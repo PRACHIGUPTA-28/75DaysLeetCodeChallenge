@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1399-count-largest-group) |
@@ -562,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
