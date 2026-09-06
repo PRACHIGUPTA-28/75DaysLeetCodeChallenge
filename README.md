@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1881-maximum-value-after-insertion](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1881-maximum-value-after-insertion) |
 | [1903-largest-odd-number-in-string](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
