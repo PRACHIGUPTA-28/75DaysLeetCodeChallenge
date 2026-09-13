@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1399-count-largest-group) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2295-replace-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1881-maximum-value-after-insertion](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1881-maximum-value-after-insertion) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1399-count-largest-group) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3005-count-elements-with-maximum-frequency) |
