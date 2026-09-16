@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
 |  |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Stack
