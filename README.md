@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3707-equal-score-substrings](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3707-equal-score-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3707-equal-score-substrings](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3707-equal-score-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
