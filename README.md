@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2295-replace-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
