@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2399-check-distances-between-same-letters](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2399-check-distances-between-same-letters) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2295-replace-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2399-check-distances-between-same-letters](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2399-check-distances-between-same-letters) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2399-check-distances-between-same-letters](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2399-check-distances-between-same-letters) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3707-equal-score-substrings](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3707-equal-score-substrings) |
