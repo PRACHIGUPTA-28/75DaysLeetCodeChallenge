@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0976-largest-perimeter-triangle](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0876-middle-of-the-linked-list](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
