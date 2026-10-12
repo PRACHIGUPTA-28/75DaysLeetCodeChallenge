@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2399-check-distances-between-same-letters](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2399-check-distances-between-same-letters) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3833-count-dominant-indices](https://github.com/PRACHIGUPTA-28/75DaysLeetCodeChallenge/tree/master/3833-count-dominant-indices) |
 ## Quicksort
